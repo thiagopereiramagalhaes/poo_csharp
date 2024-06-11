@@ -1,0 +1,14 @@
+C:\Users\magal\Documents\git_projects\poo_c_sharp\bin\Debug\net8.0\poo_c_sharp.exe
+C:\Users\magal\Documents\git_projects\poo_c_sharp\bin\Debug\net8.0\poo_c_sharp.deps.json
+C:\Users\magal\Documents\git_projects\poo_c_sharp\bin\Debug\net8.0\poo_c_sharp.runtimeconfig.json
+C:\Users\magal\Documents\git_projects\poo_c_sharp\bin\Debug\net8.0\poo_c_sharp.dll
+C:\Users\magal\Documents\git_projects\poo_c_sharp\bin\Debug\net8.0\poo_c_sharp.pdb
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\poo_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\poo_c_sharp.AssemblyInfoInputs.cache
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\poo_c_sharp.AssemblyInfo.cs
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\poo_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\poo_c_sharp.dll
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\refint\poo_c_sharp.dll
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\poo_c_sharp.pdb
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\poo_c_sharp.genruntimeconfig.cache
+C:\Users\magal\Documents\git_projects\poo_c_sharp\obj\Debug\net8.0\ref\poo_c_sharp.dll
